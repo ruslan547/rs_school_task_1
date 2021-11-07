@@ -1,0 +1,20 @@
+{
+  "name": "rs_school_task_1",
+  "version": "1.0.0",
+  "description": "Ciphering CLI tool",
+  "main": "cipher.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZiiMakc/rs_school_task_1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZiiMakc/rs_school_task_1/issues"
+  },
+  "homepage": "https://github.com/ZiiMakc/rs_school_task_1#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
